@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Change_Name from './Use-reduce/youtube/Change_name';
 
